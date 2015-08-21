@@ -23,6 +23,7 @@ namespace MyGame
                 
                 //Draw onto the screen
                 SwinGame.RefreshScreen(60);
+
             }
         }
     }
